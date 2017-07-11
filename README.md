@@ -10,4 +10,7 @@ Exercises:
 - Ex4: AdaBoost, PCA
 
 
-MNIST dataset can be downloaded using this [link](http://yann.lecun.com/exdb/mnist/)
+MNIST dataset can be downloaded using this [link](http://yann.lecun.com/exdb/mnist/) or by using ``sklearn`` command:
+
+    from sklearn.datasets.mldata import fetch_mldata
+    mnist = fetch_mldata('MNIST original')
