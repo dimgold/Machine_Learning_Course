@@ -1,5 +1,5 @@
 # Machine_Learning_Course
-Machine learning course at Tel-Aviv University, automn 2016
+[Machine learning course at Tel-Aviv University, autumn 2016](http://ml-intro-2016.wikidot.com/course-schedule)
 
 Machine learning algorithms implementation using Python, addressing MNIST dataset (predict handwritten digits):
 
